@@ -1,0 +1,1 @@
+odin-recipes is a project which primary goal is to show and improve my Html skills. By learning how to do a first quite big website, i'll be able to encounter the difficulties when you're working on a project.
