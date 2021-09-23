@@ -1,1 +1,3 @@
 odin-recipes is a project which primary goal is to show and improve my Html skills. By learning how to do a first quite big website, i'll be able to encounter the difficulties when you're working on a project.
+
+I completed the website, it was fun but the kind of repetitive website where you don't learn a lot of things by doing lot of different pages because they have the same struture, but it's very satisfying to see directly the results on the browser of what you've been coding seconds before, and it feels there's so much more things to learn before being able to make everything look natural and pretty.
