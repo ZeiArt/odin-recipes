@@ -40,3 +40,7 @@ p {
 body {
     background-color: rgb(255, 253, 245);
 }
+
+*{
+    border 2px solid red;
+}
